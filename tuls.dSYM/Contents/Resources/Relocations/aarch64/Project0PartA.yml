@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/ethanung/Downloads/Project0PartA'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _listFiles, symObjAddr: 0x0, symBinAddr: 0x100003A60, symSize: 0x1B0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _listFiles, symObjAddr: 0x0, symBinAddr: 0x100003A60, symSize: 0x1B0 }
+  - { offsetInCU: 0xCC, offset: 0xCC, size: 0x8, addend: 0x0, symName: _listFilesRecursively, symObjAddr: 0x1B0, symBinAddr: 0x100003C10, symSize: 0x244 }
+  - { offsetInCU: 0x19E, offset: 0x19E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x3F4, symBinAddr: 0x100003E54, symSize: 0x98 }
+...
